@@ -1,5 +1,5 @@
 {
-  "name": "my-pkg-1",
+  "name": "@samuel-martins/my-pkg-1",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "159b08410fcf3a49c59b7410d188db87021dad20"
 }
