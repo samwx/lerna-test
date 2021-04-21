@@ -1,1 +1,3 @@
-module.exports = function() { console.log('my pkg 1') }
+module.exports = function () {
+  console.log("Olá, PUC! - my pkg 1");
+};
