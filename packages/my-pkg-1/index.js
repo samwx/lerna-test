@@ -1,3 +1,3 @@
 module.exports = function () {
-  console.log("Olá, Turma! - my pkg 1");
+  console.log("Olá, arquitetura! - my pkg 1");
 };
