@@ -1,3 +1,3 @@
 module.exports = function () {
-  console.log("Olá, pessoal!");
+  console.log("Ola, monorepos!");
 };
